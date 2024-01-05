@@ -9,7 +9,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
+### More About Me:
 
 - 🔭 &nbsp; I’m currently working on freelance proyects
 - 🌱 &nbsp; I’m constantly learning 
