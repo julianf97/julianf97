@@ -3,7 +3,6 @@
 
 <br/>
 <br/>
-<br/>
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
