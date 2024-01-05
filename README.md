@@ -5,7 +5,7 @@ I love exploring new tech stack ğŸ’» and leveraging them to build cool stuffs ğŸ
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
   
 ### More About Me:
 
