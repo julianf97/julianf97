@@ -9,7 +9,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
   
 ### More About Me:
 
-- 🔭 &nbsp; I’m currently working on Itecnis
+- 🔭 &nbsp; I’m currently working on Secretaría de Inovación y transformación digital
 - 🌱 &nbsp; I’m constantly learning
 - 🧳 &nbsp; See my portfolio: [Portfolio](https://julianfinelli.vercel.app/) 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/julianf97?tab=repositories)
